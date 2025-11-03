@@ -20,7 +20,9 @@ This helps you keep consistent, timestamped logs of your weekly work or project 
 
 ## 📂 Folder Structure
 
+
 AutoWeeklyReport/
+
 │
 ├── generate_weekly_report.py
 
