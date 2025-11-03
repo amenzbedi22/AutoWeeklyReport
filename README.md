@@ -1,6 +1,6 @@
 # Create README.md file for AutoWeeklyReport project
 
-readme_content = """# 🧾 AutoWeeklyReport
+ 🧾 AutoWeeklyReport
 
 ## 📌 Overview
 **AutoWeeklyReport** is a simple automation tool that generates a **weekly progress report** in Markdown format (`.md`).  
@@ -19,12 +19,17 @@ This helps you keep consistent, timestamped logs of your weekly work or project 
 ---
 
 ## 📂 Folder Structure
+
 AutoWeeklyReport/
 │
 ├── generate_weekly_report.py
+
 ├── README.md
+
 └── .github/
+
 └── workflows/
+
 └── weekly_report.yml
 
 
